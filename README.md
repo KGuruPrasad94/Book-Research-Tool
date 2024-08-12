@@ -29,4 +29,3 @@ This project showcases my skills in leveraging advanced NLP technologies, includ
 
 ---
 
-*This README file was generated as part of the Book Research Tool project.*
